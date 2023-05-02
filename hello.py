@@ -1,1 +1,2 @@
-hello world
+def jae():
+    print("hello world")
